@@ -8,4 +8,4 @@ public class Main {
         System.out.println(myService.setMyEntity(new MyEntity("second")));
         System.out.println(myService.getMyEntity());
     }
-}asa
+}
